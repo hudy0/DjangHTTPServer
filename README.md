@@ -31,3 +31,9 @@
 - **Requests/sec & Transfer/sec**: The throughput remained consistent, with **551.18 requests per second** and **151.25KB transfer per second**.
 
 Both tests performed similarly, but the presence of socket errors suggests more optimization is needed, especially for handling concurrent connections efficiently.
+
+##Django runserver
+[Screen Recording 2024-09-24 at 03.39.27.mov](../../Desktop/Screen%20Recording%202024-09-24%20at%2003.39.27.mov)
+
+##gunicorn
+[Screen Recording 2024-09-24 at 03.39.27.mov](../../Desktop/Screen%20Recording%202024-09-24%20at%2003.39.27.mov)
