@@ -33,11 +33,9 @@
 Both tests performed similarly, but the presence of socket errors suggests more optimization is needed, especially for handling concurrent connections efficiently.
 
 ## Django runserver
-
-https://github.com/user-attachments/assets/44b86c9c-c65c-42eb-b30b-2e71816d91e5
-
+https://github.com/user-attachments/assets/99fef16e-0584-4774-b223-8d1c28298121
 
 # gunicorn
+https://github.com/user-attachments/assets/44b86c9c-c65c-42eb-b30b-2e71816d91e5
 
-https://github.com/user-attachments/assets/99fef16e-0584-4774-b223-8d1c28298121
 
